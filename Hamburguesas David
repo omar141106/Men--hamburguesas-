@@ -1,0 +1,29 @@
+<!DOCTYPE html><html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú de Hamburguesas</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .menu-item { margin: 20px; padding: 10px; border: 1px solid #ddd; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Menú de Hamburguesas</h1>
+    <div class="menu-item">
+        <h2>Clásica</h2>
+        <p>Carne de res, lechuga, tomate, queso y mayonesa.</p>
+        <p><strong>$5.99</strong></p>
+    </div>
+    <div class="menu-item">
+        <h2>BBQ</h2>
+        <p>Carne de res, queso cheddar, cebolla caramelizada y salsa BBQ.</p>
+        <p><strong>$6.99</strong></p>
+    </div>
+    <div class="menu-item">
+        <h2>Vegana</h2>
+        <p>Hamburguesa de garbanzos, lechuga, tomate y salsa especial.</p>
+        <p><strong>$6.49</strong></p>
+    </div>
+</body>
+</html>
